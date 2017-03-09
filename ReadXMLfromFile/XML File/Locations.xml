@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+  <locations>
+    <location name="New York">
+      <Buildings>
+        <Building name="Building1">
+          <Rooms>
+            <Room name="Room1">
+              <Capacity>18</Capacity>
+            </Room>
+            <Room name="Room2">
+              <Capacity>6</Capacity>
+            </Room>
+          </Rooms>
+        </Building>
+
+        <Building name="Building2">
+          <Rooms>
+            <Room name="RoomA">
+              <Capacity>18</Capacity>
+            </Room>
+          </Rooms>
+        </Building>
+      </Buildings>
+    </location>
+    <location name="London">
+      <Buildings>
+        <Building name="Building45">
+          <Rooms>
+            <Room name="Room5">
+              <Capacity>6</Capacity>
+            </Room>
+          </Rooms>
+        </Building>
+      </Buildings>
+    </location>
+  </locations>
+</info>
